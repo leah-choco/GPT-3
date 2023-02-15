@@ -17,7 +17,7 @@ const App = () => {
   return (
     <div>
       <div className="App">
-        <div className="gradiant__bg">
+        <div className="gradient__bg">
           <Navbar />
           <Header />
         </div>
