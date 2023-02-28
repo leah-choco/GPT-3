@@ -11,6 +11,10 @@ const Possibility = () => {
       <div className="gpt3__possibility-image">
         <img src={possibilityImage} alt="possibility" />
       </div>
+      <div className="gpt3__possibility-content">
+        <h4>Request Early Access to Get Started</h4>
+        <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
+      </div>
     </div>
   )
 }
