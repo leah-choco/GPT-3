@@ -23,3 +23,15 @@
     align-items: flex-start;
     flex-direction: column;
 }
+
+.gpt3__possibility-content h4 {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #71E5FF;
+}
+
+.gpt3__possibility-content h4:last-child {
+    color: #ff8A71;
+}
