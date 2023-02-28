@@ -18,7 +18,7 @@ const Possibility = () => {
         <h4>Request Early Access to Get Started</h4>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Possibility
+export default Possibility;
