@@ -48,6 +48,10 @@
     padding: 0 1rem;
     outline: none;
     color: #fff;
+
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
 }
 
 .gpt3__header-content_input button {
