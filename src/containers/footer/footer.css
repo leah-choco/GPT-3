@@ -133,3 +133,11 @@
         line-height: 20px;
     }
 }
+
+/* Smaller Phone Media Queries */
+@media screen and (max-width: 400px) {
+    .gpt3__footer-heading h1 {
+        font-size: 27px;
+        line-height: 38px;
+    }
+}
