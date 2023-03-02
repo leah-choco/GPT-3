@@ -24,7 +24,13 @@ const Footer = () => {
           <p>Overons</p>
           <p>Social Media</p>
           <p>Counters</p>
-         <p>Contact</p>
+          <p>Contact</p>
+        </div>
+        <div className="gpt3__footer-links_div">
+          <h4>Company</h4>
+          <p>Terms and Conditions </p>
+          <p>Privacy Policy</p>
+          <p>Contact</p>
         </div>
       </div>
     </div>
