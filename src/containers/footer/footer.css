@@ -59,3 +59,9 @@
     display: flex;
     flex-direction: column;
 }
+
+.gpt3__footer-links_logo img {
+    width: 118px;
+    height: 30px;
+    margin-bottom: 1rem;
+}
