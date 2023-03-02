@@ -95,3 +95,16 @@
     margin: 0.5rem 0;
     cursor: pointer;
 }
+
+.gpt3__footer-copyright {
+    margin-top: 2rem;
+    text-align: center;
+    width: 100%;
+}
+
+.gpt3__footer-copyright p {
+    font-size: 12px;
+    font-family: var(--font-family);
+    line-height: 15px;
+    color: #fff;
+}
