@@ -1,4 +1,4 @@
-# gpt-3
+# GPT-3
 
 Deployed Link: https://leah-choco.github.io/gpt-3/
 
