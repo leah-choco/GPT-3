@@ -1,6 +1,6 @@
 # GPT-3
 
-Deployed Link: https://leah-choco.github.io/gpt-3/
+Deployed Link: https://leah-choco.github.io/GPT-3/
 
 ## Screenshot:
 
